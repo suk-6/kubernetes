@@ -1,0 +1,21 @@
+{
+	"cloud": "AzurePublicCloud",
+	"tenantId": "",
+	"subscriptionId": "",
+	"aadClientId": "",
+	"aadClientSecret": "",
+	"resourceGroup": "k8s-woosuk",
+	"securityGroupName": "",
+	"securityGroupResourceGroup": "",
+	"location": "koreacentral",
+	"vmType": "default",
+	"vnetName": "k8s-vnet",
+	"vnetResourceGroup": "",
+	"subnetName": "",
+	"routeTableName": "k8s-route-table",
+	"loadBalancerSku": "Standard",
+	"loadBalancerName": "",
+	"maximumLoadBalancerRuleCount": 250,
+	"useManagedIdentityExtension": false,
+	"useInstanceMetadata": true
+}
